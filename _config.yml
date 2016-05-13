@@ -1,7 +1,7 @@
 name: birdcrumbs
 favicon: null
-layout_spectrum: 0.2332548387348652
-typography_spectrum: 0.6572285678703338
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f0ffff'
+    - '#c7dbec'
+    - '#0f1428'
+    - '#93a8a1'
+    - '#485472'
   brandStrength: 0.859099492430687
   lightness: 0.4848515228368342
-  saturation: 0.04619208932854235
+  saturation: 1
   rhythmicContrast: 0.9094374445267022
 purpose: []
