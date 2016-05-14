@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: One Studio/Brand Identity
-datePublished: '2016-05-13T15:57:47.455Z'
-dateModified: '2016-05-13T15:57:46.741Z'
+description: ''
+datePublished: '2016-05-14T00:29:07.910Z'
+dateModified: '2016-05-14T00:28:23.969Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-one-studiobrand-identity.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-one-studiobrand-identity.md
 url: one-studiobrand-identity/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e46c35ce-341d-4caf-a698-9d49878f9c00.png)
